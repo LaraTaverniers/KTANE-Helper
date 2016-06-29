@@ -18,6 +18,7 @@
 
 ** **
 ### *CHANGELOG*
+* v1.6.5 - Minor fixes
 * v1.6.4 - Show the path to follow for the "Maze" module
 * v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)
 * v1.6.2 - Adding a keyboard listener for the "Who's on first" module
