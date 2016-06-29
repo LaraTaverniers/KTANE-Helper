@@ -1,8 +1,5 @@
-# KTANE Helper
-This application aims to help the expert in defusing bombs in the game "Keep Talking and Nobody Explodes".
-
-It was coded by pleasure for programming.
-
+# **KTANE** **Helper**
+**This application aims to help the expert in defusing bombs in the game "Keep Talking and Nobody Explodes".**
 
 ***FEATURES***
 - Allows you to simply solve the 12 modules of the game
