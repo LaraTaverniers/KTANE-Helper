@@ -24,7 +24,7 @@
 * v1.6.2 - Adding a keyboard listener for the "Who's on first" module
 * v1.6.1 - Many fixes and graphical changes
 * v1.5.0 - Saving options in the Windows registry
-* v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)
+* v1.4.0 - Supports lower screen resolutions (minimum : 1024x720)
 * v1.3.0 - Adding an update system
 * v1.2.0 - Minor fixes
 * v1.1.0 - Ability to choose the display for the "Vertical wires" module
