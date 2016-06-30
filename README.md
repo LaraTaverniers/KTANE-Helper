@@ -2,8 +2,10 @@
 
 **This application aims to help the expert in defusing bombs in the game "Keep Talking and Nobody Explodes".**
 
-*** ***
+#### **INFORMATION**
+##### The **".exe"** is the same file as the **".jar"**, but converted with "Launch4j". You will maybe need to authorize its execution by Windows, because I'm an independent developer not recognized by Microsoft.
 
+** **
 ### *FEATURES*
 - Allows you to simply solve the 12 modules of the game
 - Ability to handle up to 3 bombs at the same time
