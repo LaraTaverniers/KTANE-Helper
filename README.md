@@ -1,6 +1,6 @@
 # **KTANE** **Helper**
 
-**This application aims to help the expert in defusing bombs in the "Keep Talking and Nobody Explodes" game.**
+**This application helps the expert in defusing bombs in the "Keep Talking and Nobody Explodes" game.**
 
 #### **INFORMATION**
 ##### The **".exe"** is the same file as the **".jar"**, but converted with "Launch4j". You will maybe need to authorize its execution by Windows, because I'm an independent developer not recognized by Microsoft.
