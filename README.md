@@ -1,6 +1,6 @@
 # **KTANE** **Helper**
 
-**This application aims to help the expert in defusing bombs in the game "Keep Talking and Nobody Explodes".**
+**This application aims to help the expert in defusing bombs in the "Keep Talking and Nobody Explodes" game.**
 
 #### **INFORMATION**
 ##### The **".exe"** is the same file as the **".jar"**, but converted with "Launch4j". You will maybe need to authorize its execution by Windows, because I'm an independent developer not recognized by Microsoft.
@@ -24,7 +24,7 @@
 * v1.6.4 - Show the path to follow for the "Maze" module
 * v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)
 * v1.6.2 - Adding a keyboard listener for the "Who's on first" module
-* v1.6.1 - Many fixes and graphical changes
+* v1.6.1 - Many fixes and graphical updates
 * v1.5.0 - Saving options in the Windows registry
 * v1.4.0 - Supports lower screen resolutions (minimum : 1024x720)
 * v1.3.0 - Adding an update system
