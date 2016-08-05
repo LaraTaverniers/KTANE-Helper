@@ -26,7 +26,7 @@ Steam thread : http://steamcommunity.com/app/341800/discussions/0/35728413179571
 
 ** **
 ### *HELP TO TRANSLATE*
-Github repository : https://github.com/MarinTaverniers/KTANE-Helper/blob/master/translation_XX.txt
+Translation File : https://github.com/MarinTaverniers/KTANE-Helper/blob/master/translation_XX.txt
 
 ** **
 ### *LICENSE*
@@ -47,4 +47,5 @@ Please read the "LICENSE.txt" file.
 * v1.1.0 - Ability to choose the display for the "Vertical wires" module
 * v1.0.0 - First release of the application
 
+** **
 Copyright (c) 2016 Marin Taverniers
