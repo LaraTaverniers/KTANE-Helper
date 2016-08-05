@@ -12,7 +12,7 @@
 ### *REQUIRED CONFIGURATION*
 - Game in Version 1
 - OS : Windows, Linux, or Mac OS X
-- Minimum screen resolution : 1024*720 (1920*1080 recommended)
+- Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0
 
 ** **
