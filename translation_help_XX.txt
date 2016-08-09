@@ -1,0 +1,20 @@
+﻿This application helps the expert in defusing bombs 
+in the "Keep Talking and Nobody Explodes" game.
+
+--------------------------------------------------------------------------------------------------
+*FEATURES*
+--------------------------------------------------------------------------------------------------
+- Allows you to simply solve the 12 modules of the game
+- Ability to handle up to 3 bombs at the same time
+- Multilangual support (English, French, Hebrew)
+
+---------------------------------------------------------------------------------------------------
+*KEYBOARD SHORTCUTS*
+---------------------------------------------------------------------------------------------------
+[ENTER]  -  Validate
+[ESCAPE]  -  Reset the module
+[DELETE]  -  Reset or start again the step (in concerned modules)
+[BACKSPACE]  -  Cancel the last selection (in concerned modules)
+
+NUMBERS  -  For "Memory" and "Morse Code" modules
+LETTERS  -  For "Who's on first" and "Password" modules

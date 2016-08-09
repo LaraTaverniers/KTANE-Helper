@@ -1,0 +1,23 @@
+﻿This application was coded by pleasure for programming.
+If you want to support my work, you can make a donation !
+
+--------------------------------------------------------------------------------------------------
+*REQUIRED CONFIGURATION*
+--------------------------------------------------------------------------------------------------
+- Game in Version 1
+
+--------------------------------------------------------------------------------------------------
+*CHANGELOG*
+--------------------------------------------------------------------------------------------------
+v1.7.1 - Supports Windows, Linux and Mac OS X
+v1.6.5 - Minor fixes
+v1.6.4 - Show the path to follow for the "Maze" module
+v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)
+v1.6.2 - Adding a keyboard listener for the "Who's on first" module
+v1.6.1 - Many fixes and graphical updates
+v1.5.0 - Saving options in the Windows registry
+v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)
+v1.3.0 - Adding an update system
+v1.2.0 - Minor fixes
+v1.1.0 - Ability to choose the display for the "Vertical wires" module
+v1.0.0 - First release of the application
