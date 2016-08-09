@@ -22,7 +22,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *BUG REPORTING - FEATURE REQUESTS*
-Steam thread : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
+- Steam thread : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
 
 ** **
 ### *HELP TO TRANSLATE*
@@ -31,7 +31,7 @@ Steam thread : http://steamcommunity.com/app/341800/discussions/0/35728413179571
 
 ** **
 ### *LICENSE*
-Please read the "LICENSE.txt" file.
+- Please read the "LICENSE.txt" file.
 
 ** **
 ### *CHANGELOG*
