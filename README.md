@@ -26,8 +26,8 @@ Steam thread : http://steamcommunity.com/app/341800/discussions/0/35728413179571
 
 ** **
 ### *HELP TO TRANSLATE*
-Translation file : https://github.com/MarinTaverniers/KTANE-Helper/blob/master/translation_XX.txt
-Upload your new translation file : https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc
+- Translation file : https://github.com/MarinTaverniers/KTANE-Helper/blob/master/translation_XX.txt
+- Upload your new translation file : https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc
 
 ** **
 ### *LICENSE*
