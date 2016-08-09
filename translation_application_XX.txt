@@ -1,0 +1,196 @@
+﻿----------------------------------------------------------------------------------------------------------------------------
+//MENU BAR
+----------------------------------------------------------------------------------------------------------------------------
+texte_fichier = File
+texte_nouvelle_partie = New game
+texte_quitter = Exit
+texte_option = Options
+texte_choix_version = Game version
+texte_version = Version
+texte_langue = Language
+texte_premier_plan = Always on top
+texte_aide = Help
+texte_verifier_maj = Update
+texte_a_propos = About
+----------------------------------------------------------------------------------------------------------------------------
+//UPDATE
+----------------------------------------------------------------------------------------------------------------------------
+texte_maj_application = Updating the application
+texte_maj_recherche = Checking for an update
+texte_maj_disponible_1 = An update is available
+texte_maj_disponible_2 = Do you want to download it
+texte_maj_version_ok = No update available
+texte_maj_connexion_serveur = Trying to connect to the server
+texte_maj_connexion_etablie = Connection established
+texte_maj_telechargement = Downloading
+texte_maj_creation_fichier = Creating the new file
+texte_maj_decompression_fichier = File decompression
+texte_maj_redemarrage = Shutting down
+texte_maj_connexion_longue = Abnormally long connection
+texte_maj_connexion_perdue = Connection lost
+texte_maj_interne_impossible = Internal update is impossible
+texte_maj_ouverture_lien = Opening external link
+texte_maj_erreur_serveur_1 = Unable to connect to the server
+texte_maj_erreur_serveur_2 = Check your internet connection
+texte_maj_erreur_serveur_3 = Error communicating with the server
+texte_maj_ok = OK
+----------------------------------------------------------------------------------------------------------------------------
+//GLOBAL TEXTS
+----------------------------------------------------------------------------------------------------------------------------
+texte_developpeur = Developed by
+texte_faire_un_don = DONATE
+texte_touche_entree = ENTER
+texte_copie_presse_papier = The link has been copied to the clipboard
+texte_lien_copie = Link copied
+----------------------------------------------------------------------------------------------------------------------------
+//INFORMATION BUTTONS
+----------------------------------------------------------------------------------------------------------------------------
+texte_bombe = Bomb
+texte_supprimer_informations = DELETE ALL INFORMATIONS
+texte_plus_4_piles = or more
+texte_oui = YES
+texte_non = NO
+texte_pair = EVEN
+texte_impair = ODD
+----------------------------------------------------------------------------------------------------------------------------
+//BOMB INFORMATION
+----------------------------------------------------------------------------------------------------------------------------
+texte_nombre_piles = Number of batteries
+texte_voyelle_serie = Vowel in the serial number
+texte_chiffre_serie = Last digit of the serial number
+texte_port_parallele = Presence of a parallel port
+texte_nombre_strikes = Number of strikes
+texte_information_manquante = Missing info.
+----------------------------------------------------------------------------------------------------------------------------
+//MODULES
+----------------------------------------------------------------------------------------------------------------------------
+texte_module_fils_horizontaux = Wires
+texte_module_bouton = Button
+texte_module_symboles = Keypad
+texte_module_simon = Simon says
+texte_module_textes = Who’s on first
+texte_module_memory = Memory
+texte_module_morse = Morse code
+texte_module_fils_verticaux = Complicated wires
+texte_module_9_fils = Wire sequences
+texte_module_labyrinthe = Maze
+texte_module_mot_de_passe = Password
+texte_module_molette = Knob
+----------------------------------------------------------------------------------------------------------------------------
+//RESOLUTION BUTTONS
+----------------------------------------------------------------------------------------------------------------------------
+texte_valider = VALIDATE
+texte_reinitialiser = RESET
+texte_solution_ok = DONE
+----------------------------------------------------------------------------------------------------------------------------
+//GLOBAL TEXTS FOR MODULES
+----------------------------------------------------------------------------------------------------------------------------
+texte_rouge = RED
+texte_blanc = WHITE
+texte_bleu = BLUE
+texte_jaune = YELLOW
+texte_vert = GREEN
+texte_noir = BLACK
+texte_appuyer_bouton = PUSH THE BUTTON
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 1
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_01 = Select the colours of the wires as you see them from top to bottom
+texte_premier_module_01 = FIRST
+texte_deuxieme_module_01 = SECOND
+texte_troisieme_module_01 = THIRD
+texte_quatrieme_module_01 = FOURTH
+texte_cinquieme_module_01 = FIFTH
+texte_sixieme_module_01 = LAST
+texte_solution_1_module_01 = CUT THE
+texte_solution_2_module_01 = WIRE
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 2
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_2 = Select the corresponding informations to your situation
+texte_couleur_bouton_module_2 = Color of the button
+texte_texte_inscrit_module_2 = Written text
+texte_indicateur_module_2 = Indicator
+texte_allume_module_2 = lit
+texte_solution_1_module_2 = PUSH THE BUTTON
+texte_solution_2_module_2 = AND RELEASE IT IMMEDIATELY
+texte_solution_3_module_2 = HOLD THE BUTTON DOWN
+texte_solution_4_module_2 = RELEASE IT WHEN THE COUNTDOWN TIMER DISPLAYS
+texte_solution_5_module_2 = THE SPECIFIED NUMBER ACCORDING TO THE COLORED STRIP
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 3
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_3 = Select the 4 symbols that are displayed
+texte_solution_module_3 = CLICK ON THE SYMBOLS IN THIS ORDER
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 4
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_4 = Press the buttons in the order they flash
+texte_selection_module_4 = SELECTION
+texte_solution_module_4 = SOLUTION
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 5
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_5 = Select texts you see by following the schema on the right
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 6
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_6 = Select (or type) numbers by following the schema
+texte_etape_module_6 = STEP
+texte_etape_suivante_module_6 = NEXT STEP
+texte_recommencer_etape_module_6 = START AGAIN THE STEP
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 7
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_7 = Wait for the long gap, then reproduce the signal with the buttons (or the keyboard)
+texte_bip_long_module_7 = LONG
+texte_bip_court_module_7 = SHORT
+texte_bip_pause_module_7 = GAP
+texte_erreur_module_7 = You propably made a mistake, start again
+texte_solution_module_7 = SET THE FREQUENCY ON
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 8
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_8 = COMPLETE THE MISSING INFORMATIONS CONCERNING THE BOMB
+texte_fils_a_couper_module_8 = WIRES TO CUT
+texte_fils_a_ne_pas_couper_module_8 = WIRES NOT TO CUT
+texte_solution_1_module_8 = CUT THESE WIRES
+texte_solution_2_module_8 = CUT ALL WIRES EXCEPT THESE ONES
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 9
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_9 = Select the corresponding informations for each wire
+texte_couleur_module_9 = Color of the wire
+texte_lettre_module_9 = Connection
+texte_numero_module_9 = N°
+texte_suivant_module_9 = NEXT STEP
+texte_recommencer_module_9 = START AGAIN THE STEP
+texte_solution_1_module_9 = DON'T CUT ANY WIRE
+texte_solution_2_module_9 = CUT THE WIRE
+texte_solution_3_module_9 = CUT WIRES
+texte_solution_4_module_9 = CUT ALL WIRES
+texte_solution_5_module_9 = GO TO THE NEXT STEP
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 10
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_1_module_10 = Click on the two buttons corresponding to the two green circles
+texte_instruction_2_module_10 = Click on the button corresponding to the white square
+texte_instruction_3_module_10 = Click on the button corresponding to the red triangle
+texte_solution_module_10 = FOLLOW THIS PATH
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 11
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_11 = Select (or type) the possibilities of each letter
+texte_lettre_module_11 = Letter
+texte_suivant_module_11 = NEXT LETTER
+texte_recommencer_module_11 = START AGAIN
+texte_solution_module_11 = ENTER THE WORD
+----------------------------------------------------------------------------------------------------------------------------
+//MODULE 12
+----------------------------------------------------------------------------------------------------------------------------
+texte_instruction_module_12 = Click on the buttons corresponding to the lit leds
+texte_solution_1_module_12 = PUT THE KNOB
+texte_solution_2_module_12 = ON THE LEFT OF THE
+texte_solution_3_module_12 = ON THE RIGHT OF THE
+texte_solution_4_module_12 = ON THE
+texte_solution_5_module_12 = OPPOSITE TO THE
