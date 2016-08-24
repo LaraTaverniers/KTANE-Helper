@@ -34,6 +34,8 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *CHANGELOG*
+* v1.7.3 - Hebrew translation (by Shplupen)
+* v1.7.2 - Many fixes on the updating system
 * v1.7.1 - Supports Windows, Linux and Mac OS X
 * v1.6.5 - Minor fixes
 * v1.6.4 - Show the path to follow for the "Maze" module
