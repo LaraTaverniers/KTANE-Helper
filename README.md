@@ -8,6 +8,8 @@
 - Ability to handle up to 3 bombs at the same time
 - Multilangual support (English, French)
 
+- **NOTE :** "Unofficial" modules won't be integrated !
+
 ** **
 ### *REQUIRED CONFIGURATION*
 - Game in Version 1
@@ -23,8 +25,6 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 ** **
 ### *BUG REPORTING - FEATURE REQUESTS*
 - Steam thread : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
-
-NOTE : "Unofficial" modules won't be integrated !
 
 ** **
 ### *HELP TO TRANSLATE*
