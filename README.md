@@ -10,7 +10,7 @@
 
 ** **
 ### *NOTES*
-**- "Unofficial" modules won't be integrated !**
+- **"Unofficial" modules won't be integrated !**
 
 ** **
 ### *SYSTEM REQUIREMENTS*
