@@ -6,7 +6,7 @@
 ### *FEATURES*
 - Allows you to simply solve the 12 modules of the game
 - Ability to handle up to 3 bombs at the same time
-- Multilangual support (English, French)
+- Multilangual support (English, French, Hebrew)
 
 **NOTE :** "Unofficial" modules won't be integrated !
 
