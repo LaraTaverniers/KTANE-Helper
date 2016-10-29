@@ -1,0 +1,7 @@
+﻿This application was coded by pleasure for programming.
+If you want to support my work, you can make a donation !
+
+----------------------------------------------------------------------------------------------
+*NOTES*
+----------------------------------------------------------------------------------------------
+- "Unofficial" modules won't be integrated !
