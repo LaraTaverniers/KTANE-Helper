@@ -8,7 +8,7 @@
 - Ability to handle up to 3 bombs at the same time
 - Multilangual support (English, French)
 
-- **NOTE :** "Unofficial" modules won't be integrated !
+**NOTE :** "Unofficial" modules won't be integrated !
 
 ** **
 ### *REQUIRED CONFIGURATION*
