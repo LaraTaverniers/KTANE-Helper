@@ -8,11 +8,10 @@
 - Ability to handle up to 3 bombs at the same time
 - Multilangual support (English, French, Hebrew)
 
-**NOTE :** "Unofficial" modules won't be integrated !
+**NOTE : "Unofficial" modules won't be integrated !**
 
 ** **
 ### *REQUIRED CONFIGURATION*
-- Game in Version 1
 - OS : Windows, Linux, or Mac OS X
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0
