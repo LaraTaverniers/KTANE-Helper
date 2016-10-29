@@ -24,6 +24,8 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 ### *BUG REPORTING - FEATURE REQUESTS*
 - Steam thread : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
 
+NOTE : "Unofficial" modules won't be integrated !
+
 ** **
 ### *HELP TO TRANSLATE*
 - Upload new translation files here : https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc
@@ -34,6 +36,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *CHANGELOG*
+* v1.7.5 - Adding a "Website" menu
 * v1.7.4 - Minor fixes
 * v1.7.3 - Hebrew translation (by Shplupen)
 * v1.7.2 - Many fixes on the updating system
