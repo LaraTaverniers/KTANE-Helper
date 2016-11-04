@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
   
-  <information>
+  <application>
     <version>1.7.5</version>
     <name>KTANE Helper</name>
-  </information>
+  </application>
   
   <download_links>
     <windows>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</windows>
