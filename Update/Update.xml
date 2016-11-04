@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <update>
   
-  
   <information>
-  
     <version>1.7.5</version>
     <name>KTANE Helper</name>
-  
   </information>
   
-  
   <download_links>
-  
     <windows>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</windows>
     <mac>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip</mac>
     <linux>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar</linux>
-  
   </download_links>
   
-  
-  <external_link>
-  
-    https://github.com/MarinTaverniers/KTANE-Helper
-  
-  </external_link>
+  <external_links>
+    <main>https://github.com/MarinTaverniers/KTANE-Helper</main>
+  </external_links>
       
 </update>
