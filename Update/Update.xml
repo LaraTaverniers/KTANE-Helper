@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <updates>
-  <update>
-    <version>1.7.5</version>
+  
+  <update ver="1.7.5">
     <detail>- TEST{line}- TEST2</detail>
     <URL>
-      <windows>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</windows>
-      <mac>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip</mac>
-      <linux>https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar</linux>
-      <external>https://github.com/MarinTaverniers/KTANE-Helper</external>
+      <URL_name name="windows">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</URL_name>
+      <URL_name name="mac">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip</URL_name>
+      <URL_name name="linux">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar</URL_name>
+      <URL_name name="external">https://github.com/MarinTaverniers/KTANE-Helper</URL_name>
     </URL>
   </update>
+  
 </updates>
