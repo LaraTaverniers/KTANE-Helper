@@ -29,6 +29,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *HELP TO TRANSLATE*
+- Download original translation files here : https://github.com/MarinTaverniers/KTANE-Helper/tree/master/Translation
 - Upload new translation files here : https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc
 
 ** **
