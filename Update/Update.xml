@@ -3,8 +3,8 @@
 <updates>
   
   <update type="main">
-    <version>1.7.5</version>
-    <detail>- Adding a "Website" menu{line}- Minor fixes</detail>
+    <version>1.8.1</version>
+    <detail>- Adding a "Cancel" button (for some modules)</detail>
     <URL>
       <URL_name name="windows">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</URL_name>
       <URL_name name="mac">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip</URL_name>
