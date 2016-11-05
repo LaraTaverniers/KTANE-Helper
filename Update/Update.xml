@@ -6,9 +6,9 @@
     <version>1.7.5</version>
     <detail>- Adding a "Website" menu{line}- Minor fixes</detail>
     <URL>
-      <URL_name name="windows">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe/</URL_name>
-      <URL_name name="mac">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip/</URL_name>
-      <URL_name name="linux">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar/</URL_name>
+      <URL_name name="windows">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</URL_name>
+      <URL_name name="mac">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip</URL_name>
+      <URL_name name="linux">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar</URL_name>
       <URL_name name="external">https://github.com/MarinTaverniers/KTANE-Helper</URL_name>
     </URL>
   </update>
