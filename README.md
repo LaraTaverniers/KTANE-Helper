@@ -38,6 +38,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *CHANGELOG*
+* v1.8.2 - Minor fixes
 * v1.8.1 - Adding a "Cancel" button (for some modules)
 * v1.7.5 - Adding a "Website" menu
 * v1.7.4 - Minor fixes
