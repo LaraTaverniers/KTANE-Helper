@@ -3,7 +3,7 @@
 <updates>
   
   <update type="main">
-    <version>1.8.2</version>
+    <version>1.8.4</version>
     <detail>- Minor fix on the updating system</detail>
     <URL>
       <URL_name name="windows">https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe</URL_name>
