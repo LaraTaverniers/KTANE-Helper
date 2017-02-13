@@ -38,6 +38,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *CHANGELOG*
+* v1.8.3 - Minor fix on the updating system
 * v1.8.2 - Minor fixes
 * v1.8.1 - Adding a "Cancel" button (for some modules)
 * v1.7.5 - Adding a "Website" menu
@@ -58,4 +59,4 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 * v1.0.0 - First release of the application
 
 ** **
-Copyright (c) 2016 Marin Taverniers
+Copyright (c) 2017 Marin Taverniers
