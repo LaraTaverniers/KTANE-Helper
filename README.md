@@ -25,8 +25,8 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-- Google form : https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform
 - Steam discussion : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
+- Google form : https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform
 
 ** **
 ### *HELP TO TRANSLATE*
