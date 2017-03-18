@@ -25,18 +25,18 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-- [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform)
-- [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/)
+- [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form")
+- [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion")
 
 ** **
 ### *HELP TO TRANSLATE*
-- [Download](../../tree/master/Translation) original translation files 
+- [Download](../../tree/master/Translation "Download original translation files") original translation files
 - Translate every text after each {=} symbol
-- [Upload](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc) new translation files
+- [Upload](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files") new translation files
 
 ** **
 ### *LICENSE*
-- Please read the ["LICENSE.txt" file](../../blob/master/LICENSE.txt).
+- Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "LICENSE.txt file") file.
 
 ** **
 ### *CHANGELOG*
