@@ -31,7 +31,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 ** **
 ### *HELP TO TRANSLATE*
 1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
-2) Translate every text after each {=} symbol.
+2) Translate texts after each {=} symbol.
 3) Upload new translation files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
 
 ** **
