@@ -36,7 +36,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *LICENSE*
-- Please read the ["LICENSE.txt"](../../LICENSE.txt) file.
+- Please read the ["LICENSE.txt" file](../../blob/master/LICENSE.txt).
 
 ** **
 ### *CHANGELOG*
