@@ -24,8 +24,9 @@ You will maybe need to authorize the execution of this application by your Opera
 because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
-### *BUG REPORTING - FEATURE REQUESTS*
-- Steam thread : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
+### *BUG REPORT - FEATURE REQUEST*
+- Google form : https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform
+- Steam discussion : http://steamcommunity.com/app/341800/discussions/0/357284131795715187/
 
 ** **
 ### *HELP TO TRANSLATE*
@@ -38,26 +39,26 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *CHANGELOG*
-* v1.8.4 - Fixes for MAC OS
-* v1.8.3 - Minor fix on the updating system
+* v1.8.4 - Fixes for Mac OS
+* v1.8.3 - Fixes on the updating system
 * v1.8.2 - Minor fixes
-* v1.8.1 - Adding a "Cancel" button (for some modules)
-* v1.7.5 - Adding a "Website" menu
+* v1.8.1 - Added a "Cancel" button (for some modules)
+* v1.7.5 - Added a "Website" menu
 * v1.7.4 - Minor fixes
-* v1.7.3 - Hebrew translation (by Shplupen)
+* v1.7.3 - Added Hebrew translation (by Shplupen)
 * v1.7.2 - Many fixes on the updating system
 * v1.7.1 - Supports Windows, Linux and Mac OS 10.9 (or higher)
 * v1.6.5 - Minor fixes
-* v1.6.4 - Show the path to follow for the "Maze" module
+* v1.6.4 - Shows the path to follow in the "Maze" module
 * v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)
-* v1.6.2 - Adding a keyboard listener for the "Who's on first" module
+* v1.6.2 - Added a keyboard listener for the "Who's on first" module
 * v1.6.1 - Many fixes and graphical updates
-* v1.5.0 - Saving options in the Windows registry
-* v1.4.0 - Supports lower screen resolutions (minimum : 1024x720)
-* v1.3.0 - Adding an update system
+* v1.5.0 - Saves preferences in the Windows registry
+* v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)
+* v1.3.0 - Added an update system
 * v1.2.0 - Minor fixes
 * v1.1.0 - Ability to choose the display for the "Vertical wires" module
-* v1.0.0 - First release of the application
+* v1.0.0 - First release
 
 ** **
 Copyright (c) 2017 Marin Taverniers
