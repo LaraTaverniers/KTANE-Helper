@@ -30,9 +30,9 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 
 ** **
 ### *HELP TO TRANSLATE*
-- [Download](../../tree/master/Translation "Download original translation files") original translation files
-- Translate every text after each {=} symbol
-- [Upload](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files") new translation files
+1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
+2) Translate every text after each {=} symbol.
+3) Upload new translation files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
 
 ** **
 ### *LICENSE*
