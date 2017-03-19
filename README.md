@@ -1,6 +1,5 @@
 # **KTANE Helper**
 
-
 **This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
 
  
@@ -18,14 +17,14 @@
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0  
 
-> #### ***(NOTE :** As I'm an independent developer, you may need to authorize your Operating System to run this application.)*
+_***(NOTE :** As I'm an independent developer, you may need to authorize your Operating System to run this application.)*_
 
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-- Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !  
+Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !  
   
-> #### ***(NOTE :** "Unofficial" modules will probably not be integrated !)*
+_***(NOTE :** "Unofficial" modules will probably not be integrated !)*_
 
 
 ** **
