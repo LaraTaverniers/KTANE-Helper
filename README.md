@@ -28,7 +28,7 @@ As I'm an independent developer, you may need to authorize your Operating System
 
 ** **
 ### *HELP TO TRANSLATE*
-If you want to translate the application in your language :
+If you want to translate the application in your language, follow these steps :
 1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
 2) Translate all texts after each {=} symbol.
 3) Save files by replacing {"XX"} in file names with the name of the new language.
