@@ -1,6 +1,8 @@
 # **KTANE Helper**
 
-**This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
+
+**This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**  
+**It was created for pleasure of programming, without forgetting the main interest of the game !**
 
  
 
@@ -19,7 +21,7 @@
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0  
 
-***```(NOTE : "As I'm an independent developer, you may need to authorize your Operating System to run this application.)```***
+***```(NOTE : As I'm an independent developer, you may need to authorize your Operating System to run this application.)```***
 
 
 ** **
