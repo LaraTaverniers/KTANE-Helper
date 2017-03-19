@@ -30,10 +30,9 @@ As I'm an independent developer, you may need to authorize your Operating System
 ### *HELP TO TRANSLATE*
 If you want to translate the application in your language, follow these steps :
 1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
-2) Translate all texts after each {=} symbol.
-3) Save files by replacing {"XX"} in file names with the name of the new language.
-4) Upload new files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
-5) The translation will then be added in a future version !
+2) Translate each text, then save files by replacing {"XX"} in file names with the name of the new language.
+3) Upload new files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
+4) The translation will then be added in a future version !
 
 ** **
 ### *LICENSE*
