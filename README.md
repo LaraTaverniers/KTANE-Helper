@@ -1,4 +1,3 @@
--------
 **KTANE Helper**
 ==========
 
@@ -6,13 +5,14 @@
 
 
 ** **
-### *FEATURES*
+## *FEATURES*
 - Allows to simply solve the 12 modules of the game
 - Ability to manage up to 3 bombs at the same time
 - Multilingual support (English, French, Hebrew)
 
 
-### *SYSTEM REQUIREMENTS*
+** **
+## *SYSTEM REQUIREMENTS*
 - OS : Windows, Linux, or Mac OS 10.9 (or higher)
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0
