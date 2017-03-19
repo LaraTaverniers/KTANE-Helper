@@ -22,7 +22,7 @@
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !  
+Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Open the Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Open the Steam discussion") to report a bug, request new features or suggest modifications !  
   
 > ***(NOTE :** "Unofficial" modules will probably not be integrated !)*
 
@@ -62,7 +62,7 @@ If you want to translate the application in your language, follow these steps :
 
 ** **
 ### *LICENSE*
-Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "LICENSE.txt file") file.
+Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the LICENSE.txt file") file.
 
 
 ** **
