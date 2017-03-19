@@ -14,24 +14,29 @@
  
 
 ** **
-### *SYSTEM REQUIREMENTS*
+*SYSTEM REQUIREMENTS*
+----------
 - OS : Windows, Linux, or Mac OS 10.9 (or higher)
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0
 
 
-### *IMPORTANT NOTE TO RUN THE APPLICATION*
-As I'm an independent developer, you may need to authorize your Operating System to run this application.
+> *IMPORTANT NOTE TO RUN THE APPLICATION*
+> ----------
+> As I'm an independent developer, you may need to authorize your Operating System to run this application.
 
  
 
 ** **
-### *BUG REPORT - FEATURE REQUEST*
-- Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !  
-*(**NOTE** : "Unofficial" modules will probably not be integrated !)*
+*BUG REPORT - FEATURE REQUEST*
+----------
+Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !  
+> *(**NOTE** : "Unofficial" modules will probably not be integrated !)*
 
 
-### *HELP TO TRANSLATE*
+** **
+*HELP TO TRANSLATE*
+----------
 If you want to translate the application in your language, follow these steps :
 1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
 2) Translate each text, then save files by replacing {"XX"} in file names with the name of the new language.
@@ -41,7 +46,8 @@ If you want to translate the application in your language, follow these steps :
  
 
 ** **
-### *CHANGELOG*
+*CHANGELOG*
+----------
 > v1.8.4 - Fixes for Mac OS  
 > v1.8.3 - Fixes on the update system  
 > v1.8.2 - Minor fixes  
@@ -64,7 +70,8 @@ If you want to translate the application in your language, follow these steps :
 > v1.0.0 - First release  
 
 
-### *LICENSE*
+*LICENSE*
+----------
 Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "LICENSE.txt file") file.
 
 
