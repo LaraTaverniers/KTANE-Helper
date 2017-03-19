@@ -24,15 +24,16 @@ As I'm an independent developer, you may need to authorize your Operating System
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-- [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form")
-- [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion")
+- Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Steam discussion") to report a bug, request new features or suggest modifications !
 
 ** **
 ### *HELP TO TRANSLATE*
+If you want to translate the application in your language :
 1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
-2) Translate texts after each {=} symbol.
-3) Save files by replacing {"XX"} in file names with the language name.
-4) Upload new translation files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
+2) Translate all texts after each {=} symbol.
+3) Save files by replacing {"XX"} in file names with the name of the new language.
+4) Upload new files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
+5) The translation will then be added in a future version !
 
 ** **
 ### *LICENSE*
