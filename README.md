@@ -1,16 +1,16 @@
 # **KTANE** **Helper**
 
-**This application helps the expert in defusing bombs in the "Keep Talking and Nobody Explodes" game.**
+**The purpose of this application is to help "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
 
 ** **
 ### *FEATURES*
-- Allows you to simply solve the 12 modules of the game
-- Ability to handle up to 3 bombs at the same time
-- Multilangual support (English, French, Hebrew)
+- Allows to simply solve the 12 modules of the game
+- Ability to manage up to 3 bombs at the same time
+- Multilingual support (English, French, Hebrew)
 
 ** **
 ### *NOTES*
-- **"Unofficial" modules won't be integrated !**
+- **"Unofficial" modules will not be integrated !**
 
 ** **
 ### *SYSTEM REQUIREMENTS*
@@ -20,8 +20,7 @@
 
 ** **
 ### *IMPORTANT NOTE TO RUN THE APPLICATION*
-You will maybe need to authorize the execution of this application by your Operating System, 
-because I'm an independent developer not recognized by Microsoft and Apple.
+As I'm an independent developer, you may need to authorize your Operating System to run this application.
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
@@ -42,13 +41,13 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 ** **
 ### *CHANGELOG*
 * v1.8.4 - Fixes for Mac OS
-* v1.8.3 - Fixes on the updating system
+* v1.8.3 - Fixes on the update system
 * v1.8.2 - Minor fixes
 * v1.8.1 - Added a "Cancel" button (for some modules)
 * v1.7.5 - Added a "Website" menu
 * v1.7.4 - Minor fixes
 * v1.7.3 - Added Hebrew translation (by Shplupen)
-* v1.7.2 - Many fixes on the updating system
+* v1.7.2 - Many fixes on the update system
 * v1.7.1 - Supports Windows, Linux and Mac OS 10.9 (or higher)
 * v1.6.5 - Minor fixes
 * v1.6.4 - Shows the path to follow in the "Maze" module
@@ -59,7 +58,7 @@ because I'm an independent developer not recognized by Microsoft and Apple.
 * v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)
 * v1.3.0 - Added an update system
 * v1.2.0 - Minor fixes
-* v1.1.0 - Ability to choose the display for the "Vertical wires" module
+* v1.1.0 - Ability to choose the display for the "Complicated wires" module
 * v1.0.0 - First release
 
 ** **
