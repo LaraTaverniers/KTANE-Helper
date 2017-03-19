@@ -1,6 +1,6 @@
 # **KTANE** **Helper**
 
-**This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
+**This application was created to help "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
 
 ** **
 ### *FEATURES*
