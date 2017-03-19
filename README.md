@@ -13,7 +13,7 @@
 
 ** **
 ### *SYSTEM REQUIREMENTS*
-- OS : Windows, Linux, or Mac OS 10.9 (or higher)
+- OS : [Windows](https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.exe "Download \"KTANE Helper\" for Windows"), [Linux](https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.jar "Download \"KTANE Helper\" for Linux"), or [Mac OS](https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.app.zip "Download \"KTANE Helper\" for Mac OS") 10.9 (or higher)
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0  
 
