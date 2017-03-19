@@ -2,7 +2,7 @@
 
 **This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
 
-
+ 
 ** **
 ### *FEATURES*
 - Allows to simply solve the 12 modules of the game
@@ -16,7 +16,7 @@
 - Minimum screen resolution : 1024x720 (1920x1080 recommended)
 - Minimum JAVA Runtime Environment : 1.8.0
 
-
+ 
 ** **
 ### *IMPORTANT NOTE TO RUN THE APPLICATION*
 As I'm an independent developer, you may need to authorize your Operating System to run this application.
@@ -36,7 +36,7 @@ If you want to translate the application in your language, follow these steps :
 3) Upload new files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
 4) The translation will then be added in a future version !
 
-
+ 
 ** **
 ### *LICENSE*
 Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "LICENSE.txt file") file.
