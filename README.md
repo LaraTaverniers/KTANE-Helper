@@ -38,26 +38,26 @@ If you want to translate the application in your language, follow these steps :
 
 ** **
 ### *CHANGELOG*
-> v1.8.4 - Fixes for Mac OS  
-> v1.8.3 - Fixes on the update system  
-> v1.8.2 - Minor fixes  
-> v1.8.1 - Added a "Cancel" button (for some modules)  
-> v1.7.5 - Added a "Website" menu  
-> v1.7.4 - Minor fixes  
-> v1.7.3 - Added Hebrew translation (by Shplupen)  
-> v1.7.2 - Many fixes on the update system  
-> v1.7.1 - Supports Windows, Linux and Mac OS 10.9 (or higher)  
-> v1.6.5 - Minor fixes  
-> v1.6.4 - Shows the path to follow in the "Maze" module  
-> v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)  
-> v1.6.2 - Added a keyboard listener for the "Who's on first" module  
-> v1.6.1 - Many fixes and graphical updates  
-> v1.5.0 - Saves preferences in the Windows registry  
-> v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)  
-> v1.3.0 - Added an update system  
-> v1.2.0 - Minor fixes  
-> v1.1.0 - Ability to choose the display for the "Complicated wires" module  
-> v1.0.0 - First release  
+* v1.8.4 - Fixes for Mac OS  
+* v1.8.3 - Fixes on the update system  
+* v1.8.2 - Minor fixes  
+* v1.8.1 - Added a "Cancel" button (for some modules)  
+* v1.7.5 - Added a "Website" menu  
+* v1.7.4 - Minor fixes  
+* v1.7.3 - Added Hebrew translation (by Shplupen)  
+* v1.7.2 - Many fixes on the update system  
+* v1.7.1 - Supports Windows, Linux and Mac OS 10.9 (or higher)  
+* v1.6.5 - Minor fixes  
+* v1.6.4 - Shows the path to follow in the "Maze" module  
+* v1.6.3 - Ability to cancel with the "Backspace" key (in some modules)  
+* v1.6.2 - Added a keyboard listener for the "Who's on first" module  
+* v1.6.1 - Many fixes and graphical updates  
+* v1.5.0 - Saves preferences in the Windows registry  
+* v1.4.0 - Supports lower screen resolutions (minimum : 1024*720)  
+* v1.3.0 - Added an update system  
+* v1.2.0 - Minor fixes  
+* v1.1.0 - Ability to choose the display for the "Complicated wires" module  
+* v1.0.0 - First release  
 
 
 ** **
