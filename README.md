@@ -62,7 +62,7 @@ If you want to translate the application in your language, follow these steps :
 
 ** **
 ### *LICENSE*
-Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the LICENSE.txt file") file.
+Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the \"LICENSE.txt\" file") file.
 
 
 ** **
