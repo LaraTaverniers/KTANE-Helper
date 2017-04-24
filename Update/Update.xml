@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<updates>  
+<updates>
+  
   <update type="main">
     <version>1.8.4</version>
     <detail>- Fixes for MAC OS</detail>
-    <urls>
-      <URL type="windows">https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.exe</URL>
-      <URL type="mac">https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip</URL>
-      <URL type="linux">https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.jar</URL>
-      <URL type="external">https://github.com/MarinTaverniers/KTANE-Helper</URL>
-    </urls>
-  </update>  
+    <downloads>
+      <download type="windows">
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.exe"
+                name="KTANE Helper.exe"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper"/>
+      </download>
+      <download type="mac">
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip"
+                name="KTANE Helper.app.zip"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper"/>
+      </download>
+      <download type="linux">
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.jar"
+                name="KTANE Helper.jar"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper"/>
+      </download>
+    </downloads>
+  </update>
+  
 </updates>
