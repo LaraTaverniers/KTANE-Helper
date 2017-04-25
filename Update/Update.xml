@@ -4,7 +4,7 @@
   
   <update type="main">
     <version>1.8.4</version>
-    <detail>- Fixes for MAC OS</detail>
+    <detail>- Fixes for MAC OS2</detail>
     <downloads>
       <download type="windows">
         <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.zip"
