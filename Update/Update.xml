@@ -4,11 +4,11 @@
   
   <update type="main">
     <version>1.8.4</version>
-    <detail>- Fixes for MAC OSTEST3</detail>
+    <detail>- Fixes for MAC OSTEST4</detail>
     <downloads>
       <download type="windows">
         <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.zip"
-                name="KTANE Helper 8 .jar"/>
+                name=""/>
         <manual link="https://github.com/MarinTaverniers/KTANE-Helper"/>
       </download>
       <download type="mac">
