@@ -4,12 +4,12 @@
   
   <update type="main">
     <version>1.8.4</version>
-    <detail>- Fixes for MAC OS6</detail>
+    <detail>- Fixes for MAC OS7</detail>
     <downloads>
       <download type="windows">
-        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip"
-                name="KTANE Helper.app"/>
-        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.app.zip"/>
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.exe"
+                name="KTANE Helper.exe"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.exe"/>
       </download>
       <download type="mac">
         <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip"
