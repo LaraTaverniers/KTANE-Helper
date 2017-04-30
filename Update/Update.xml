@@ -4,22 +4,22 @@
   
   <update type="main">
     <version>1.8.4</version>
-    <detail>- Fixes for MAC OS3</detail>
+    <detail>- Fixes for MAC OS4</detail>
     <downloads>
       <download type="windows">
-        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.zip"
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE%20Helper"
                 name="KTANE Helper.jar"/>
-        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.zip"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.zip"/>
       </download>
       <download type="mac">
-        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip"
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE%20Helper.app.zip"
                 name="KTANE Helper.app"/>
-        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.app.zip"/>
       </download>
       <download type="linux">
-        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.jar"
+        <direct link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE%20Helper.jar"
                 name="KTANE Helper.jar"/>
-        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar"/>
+        <manual link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.jar"/>
       </download>
     </downloads>
   </update>
