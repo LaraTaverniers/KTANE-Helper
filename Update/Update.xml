@@ -9,17 +9,17 @@
       <download type="windows">
         <internal link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.exe"
                   name="KTANE Helper.exe"/>
-        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.exe"/>
+        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.exe"/>
       </download>
       <download type="mac">
         <internal link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.app.zip"
                   name="KTANE Helper.app"/>
-        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.app.zip"/>
+        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.app.zip"/>
       </download>
       <download type="linux">
         <internal link="https://raw.githubusercontent.com/MarinTaverniers/KTANE-Helper/master/KTANE Helper.jar"
                   name="KTANE Helper.jar"/>
-        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE%20Helper.jar"/>
+        <external link="https://github.com/MarinTaverniers/KTANE-Helper/raw/master/KTANE Helper.jar"/>
       </download>
     </downloads>
   </update>
