@@ -7,7 +7,8 @@
  
 
 ### *WARNING*
-The support of this application is no longer guaranteed. The app may no longer be updated.
+The support of this application is no longer guaranteed.
+The application may no longer be updated.
 
  
 
