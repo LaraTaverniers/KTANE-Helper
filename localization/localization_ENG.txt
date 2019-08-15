@@ -83,7 +83,6 @@ update_error_title = Unable to update the application
 update_error_info = An error occured while updating the application!
 update_error_code = Error code:
 update_error_info_download = You can download the update manually here:
-update_error_info_download = Download
 update_error_info_search = You can search for updates manually here:
 
 [SUPPORT MENU]
