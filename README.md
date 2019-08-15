@@ -2,6 +2,13 @@
 
 **This application helps "the expert" to defuse bombs in the video game "Keep Talking and Nobody Explodes".**
 
+** **
+
+ 
+
+### *WARNING*
+The support of this application is no longer guaranteed. The app may no longer be updated.
+
  
 
 ** **
@@ -30,9 +37,9 @@ Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4
 ** **
 ### *HELP TO TRANSLATE*
 If you want to translate the application in your language, follow these steps :
-1) Download original translation files [here](../../tree/master/Translation "Download original translation files").
-2) Translate each text, then save files by replacing {"XX"} in file names with the name of the new language.
-3) Upload new files [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload new translation files").
+1) Download the original translation file [here](../../tree/master/localization "Download the original translation file").
+2) Translate each text, then save the file with the name of the new language.
+3) Upload the new file [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload the new translation file").
 4) The translation will then be added in a future version !
 
 
@@ -66,4 +73,4 @@ Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the \"LICENS
 
 
 ** **
-Copyright (c) 2017 Marin Taverniers
+Copyright (c) 2019 Marin Taverniers
