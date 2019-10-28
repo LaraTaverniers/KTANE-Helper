@@ -30,7 +30,7 @@ The application may no longer be updated.
 
 ** **
 ### *BUG REPORT - FEATURE REQUEST*
-Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdfhX1ud7mLLvmb4UwSu9-sAMgo8KlXtgRYIdYkGlGg1uhyXQ/viewform "Open the Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Open the Steam discussion") to report a bug, request new features* or suggest modifications !  
+Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSertXaXj192cYcvUkUQeyt-DuH2zZXF3hSay6tYEIVe_v-rEg/viewform "Open the Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Open the Steam discussion") to report a bug, request new features* or suggest modifications !  
   
 > \* ***(NOTE :** "Unofficial" modules will probably not be integrated !)*
 
