@@ -4,13 +4,13 @@
 
 ** **
 
- 
+ 
 
 ### *WARNING*
-The support of this application is no longer guaranteed.
-The application may no longer be updated.
+AS I NO LONGER HAVE TIME TO CONTINUE DEVELOPMENT, THIS PROJECT IS CURRENTLY ABANDONED.
+THE APPLICATION WILL NOT BE UPDATED UNTIL FURTHER NOTICE, SO THE "Help to translate" AND "Bug report" PROCEDURES HAVE BEEN REMOVED.
 
- 
+ 
 
 ** **
 ### *FEATURES*
@@ -26,22 +26,6 @@ The application may no longer be updated.
 - Minimum JAVA Runtime Environment : 1.8.0  
 
 > \* ***(NOTE :** As I'm an independent developer, you may need to authorize your Operating System to run this application.)*
-
-
-** **
-### *BUG REPORT - FEATURE REQUEST*
-Use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSertXaXj192cYcvUkUQeyt-DuH2zZXF3hSay6tYEIVe_v-rEg/viewform "Open the Google form") or this [Steam discussion](http://steamcommunity.com/app/341800/discussions/0/357284131795715187/ "Open the Steam discussion") to report a bug, request new features* or suggest modifications !  
-  
-> \* ***(NOTE :** "Unofficial" modules will probably not be integrated !)*
-
-
-** **
-### *HELP TO TRANSLATE*
-If you want to translate the application in your language, follow these steps :
-1) Download the original translation file [here](../../tree/master/localization "Download the original translation file").
-2) Translate each text, then save the file with the name of the new language.
-3) Upload the new file [here](https://drive.google.com/open?id=0B_uMcLBE5-StamVNVnoyM0hoUWc "Upload the new translation file").
-4) The translation will then be added in a future version !
 
 
 ** **
@@ -74,4 +58,4 @@ Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the \"LICENS
 
 
 ** **
-Copyright (c) 2019 Marin Taverniers
+Copyright (c) 2018-2022 Marin Taverniers
