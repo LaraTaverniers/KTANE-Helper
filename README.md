@@ -58,4 +58,4 @@ Please read the ["LICENSE.txt"](../../blob/master/LICENSE.txt "Open the \"LICENS
 
 
 ** **
-Copyright (c) 2018-2022 Marin Taverniers
+Copyright (c) 2016 Marin Taverniers
